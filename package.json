@@ -1,0 +1,19 @@
+{
+  "name": "webpack-doc-guides",
+  "version": "1.0.0",
+  "description": "https://webpack.js.org/guides/",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "Denis Nikolskii",
+  "license": "ISC",
+  "devDependencies": {
+    "webpack": "^5.89.0",
+    "webpack-cli": "^5.1.4"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
