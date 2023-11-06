@@ -4,7 +4,8 @@
   "description": "https://webpack.js.org/guides/",
   "private": true,
   "scripts": {
-    "build": "webpack"
+    "build": "webpack",
+    "buildWithEnv": "webpack --env goal=local --env production --env progress"
   },
   "keywords": [],
   "author": "Denis Nikolskii",
